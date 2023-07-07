@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, python**
 
-- 📫 How to reach me **gouhmada@hotmail.com**
+- 📫 How to reach me **gouhmada@gmail.com**
 
 - ⚡ Fun fact **🐞 Fun fact about my debugging process: I rely on the good old printf() function to track down bugs and unravel complex code mysteries! 💡🔍**
 
