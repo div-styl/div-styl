@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABDERRAHMAN</h1>
 <h3 align="center">👋 Hello there! I'm an English major who has ventured into the world of software engineering. 🚀</h3>
 
-- 🔭 I’m currently working on [Latex-template](https://github.com/div-styl/Latex-Template), [Nvchad-custom folder](https://github.com/div-styl/nvchad-custom), [C-libary](https://github.com/div-styl/C-libary), [Bank.C](https://github.com/div-styl/Bank.c)
+- 🔭 I’m currently working on certain script
 
 - 🌱 I’m currently learning **python**
 
