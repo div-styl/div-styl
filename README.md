@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on certain script
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python, Rust, Bash**
 
-- 💬 Ask me about **C, python**
+- 💬 Ask me about **C, Bash, python**
 
 - 📫 How to reach me **gouhmada@gmail.com**
 
