@@ -26,22 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Rust, Bash, Python, C**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Rust, Bash, Python**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Ask me about **Bash, Python, C**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to reach me out **gouhmada@gmail.com**
 <!--Intro end-->
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -111,7 +104,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=div-styl&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
