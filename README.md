@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AirBnB**
+- 🔭 I’m currently working on **CLI**
 
 - 🌱 I’m currently learning **Rust, Bash, Python, SQL**
 
